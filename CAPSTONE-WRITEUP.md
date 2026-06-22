@@ -65,8 +65,8 @@ screen, the guard, and human approval.
 Google ADK (`SequentialAgent`, `LlmAgent`), Gemini 2.5 Flash via Google AI Studio, Python.
 
 ## Links
-- Code: [PASTE YOUR PUBLIC GITHUB REPO URL]
-- Video: [PASTE YOUR VIDEO URL]
+- Code: https://github.com/PRoBoT2004/outreach-agent-capstone
+- Video: [PASTE YOUR VIDEO URL AFTER RECORDING]
 
 ## Author
 [YOUR NAME] — [solo / team]
