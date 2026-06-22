@@ -22,7 +22,7 @@ os.environ.setdefault("GOOGLE_GENAI_USE_VERTEXAI", "False")
 if not os.environ.get("GOOGLE_API_KEY") and os.environ.get("GEMINI_API_KEY"):
     os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.5-flash"  # the only model with free-tier quota on this key (5 req/min)
 
 
 def _model():
